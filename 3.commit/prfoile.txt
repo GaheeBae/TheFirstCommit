@@ -1,2 +1,2 @@
-email :
-gitID :
+email :baegahee0503@gmail.com
+gitID :GaheeBae
